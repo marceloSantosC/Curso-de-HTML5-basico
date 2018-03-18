@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br"/>
+	<head>
+		<meta charset="utf-8"/>
+		<title>Tudo sobe Google Glass - Especificações</title>
+		<link rel="stylesheet" type="text/css" href="_css/estilo.css"/>
+		<link rel="stylesheet" type="text/css" href="_css/specs.css"/>
+		<script language="javascript" src="_javascript/funcoes.js"></script>
+	</head>
+	<body>
+	
+<!--Cabeçalho-->
+		<div id="interface">
+			<header id="cabecalho">
+				<hgroup>
+					<h1>Google Glass</h1>
+					<h2>A revolução do Google está chegando</h2>
+				</hgroup>
+				
+				<img id="icone" src="_imagens/glass-oculos-preto-peq.png" alt="oculos"/>
+				
+				<nav id="menu" onmouseout="mudaFoto('_imagens/especificacoes.png')">
+					<h1>Menu Principal</h1>
+					<ul type="none">
+						<li onmouseover="mudaFoto('_imagens/home.png')"><a href="index.html">Home</a></li>
+						<li onmouseover="mudaFoto('_imagens/especificacoes.png')"><a href="specs.html">Especificações</a></li>
+						<li onmouseover="mudaFoto('_imagens/fotos.png')"><a href="fotos.html">Fotos</a></li>
+						<li onmouseover="mudaFoto('_imagens/multimidia.png')"><a href="multimidia.html">Multimídia</a></li>
+						<li onmouseover="mudaFoto('_imagens/contato.png')"><a href="fale-conosco.html">Fale Conosco</a></li>
+					<ul>
+				</nav>
+			</header>
+<!--Conteúdo-->
+					<p>Clique em qualquer área destacada da imagem para ter mais informações sobre os recursos do Google Glass. Qualquer ponto vermelho vai te levar a um lugar cheio de novas informações.</p>
+					<section id="conteudo">
+						<img src="_imagens/glass-esquema-marcado.jpg" usemap="#meumapa"/>
+						<map name="meumapa">
+							<area shape="rect" coords="179,202,270,260" href="google-glass.html#tela" target="janela"/>
+							<area shape="circle" coords="158,243,12" href="google-glass.html#camera" target="janela"/>
+							<area shape="circle" coords="73, 53, 12" href="google-glass.html#gadgets" target="janela"/>
+							<area shape="circle" coords="28, 143, 83,216,84,249,27,169" href="google-glass.html#sensores" target="janela"/>
+						</map>
+						<iframe src="google-glass.html" name="janela" id="framespec"></iframe>
+					</section>
+				</article>
+			</section>
+<!--Rodapé-->
+			<footer id="rodape">
+				<p>Copyright 2013 - by Gustavo Guanabara<br/>
+				<a href="http://facebook.com/facebook" target="_blank">Facebook</a> | <a href="http://twiter.com/twiter" target="_blank">Twitter</a></p>
+			</footer>
+		</div>
+	</body>
+</html>
