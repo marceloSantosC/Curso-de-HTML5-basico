@@ -6,4 +6,4 @@ Link do curso gratuíto:https://www.cursoemvideo.com/course/curso-de-html5/
  O projeto é um site sobre o google glass, criado com o uso de HTML5, CSS e JavaScript, possui 5 páginas acessíveis através de um menu sendo uma(especificações) interativa.
  #Imagens:
  ![image](https://user-images.githubusercontent.com/36495916/72929295-557deb80-3d38-11ea-90b2-f366de946b2a.png)
-
+![image](https://user-images.githubusercontent.com/36495916/72929395-7f371280-3d38-11ea-8c62-a0bd3070fd75.png)
