@@ -3,9 +3,9 @@
 ## Descrição do projeto
  O projeto é um site sobre o [google glass](https://pt.wikipedia.org/wiki/Project_Glass), criado com o uso de HTML5, CSS e JavaScript, possui 5 páginas acessíveis através de um menu sendo uma(especificações) interativa.
 ## Tecnologias usadas
- - HTML5 ![HTML5] (https://simpleicons.org/icons/html5.svg)
- - CSS3 ![CSS3](https://simpleicons.org/icons/css3.svg)
- - JavaScript ![Javascript](https://simpleicons.org/icons/javascript.svg)
+ - HTML5
+ - CSS3 
+ - JavaScript 
 ## Por quê?
 Projeto desenvolvido durante o curso "HTML5 e CSS3" da plataforma curso em vídeo com o objetivo de servir como portfólio e material de revisão.
 Link do curso gratuíto:https://www.cursoemvideo.com/course/curso-de-html5/
